@@ -1,0 +1,21 @@
+body {
+    background-color: lavenderblush;
+}
+.micro{
+    border-radius: 100%;
+    align-items: center;
+    width: 20%;
+    padding: 18px 540px;
+}
+.botto{
+    border: 2px solid white;
+    background-color: #151415;;
+    color: white;
+    padding: 21px 51px;
+    margin: 7px;
+    position: sticky;
+    left: 45%;
+    border-radius: 57px;
+    cursor: pointer;
+}
+
